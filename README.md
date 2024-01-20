@@ -58,7 +58,6 @@ body {
    </ul>
  </nav>
  </header>
-
  <main>
  <section id="home">
    <h2>كيف بدأت قضية فلسطين؟</h2>
